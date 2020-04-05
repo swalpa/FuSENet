@@ -4,8 +4,7 @@ A keras based implementation of FuSENet as in paper "Fused Squeeze-and-Excitatio
 
 ## Code Issues
 
-<strong><span class="color-blue"></span><sup><img style="display:inline"
-                      src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> You are requested to contact <a href="mailto:subhrasankar.chatterjee000@gmail.com" target="_blank" rel="noopener">Subhrasankar Chatterjee</a> for fix the code issues.<strong>
+<span class="color-blue"></span><sup><img style="display:inline" src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> You are requested to contact <a href="mailto:subhrasankar.chatterjee000@gmail.com" target="_blank" rel="noopener">Subhrasankar Chatterjee</a> for fix the code issues.
     
 
 ## Citation
