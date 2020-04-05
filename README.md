@@ -25,4 +25,4 @@ Part of this code is from a implementation of Classification of HSI using CNN by
 
 ## License
 
-Copyright © 2019 Subhrasankar Chatterjee. Released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright © 2020 Subhrasankar Chatterjee. Released under the MIT License. See [LICENSE](LICENSE) for details.
