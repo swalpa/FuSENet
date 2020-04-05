@@ -18,3 +18,11 @@ If you use this code in your research, we would appreciate a citation to the ori
      journal={IET Image Processing},
      year={2020}
      }
+
+## Acknowledgement
+
+Part of this code is from a implementation of Classification of HSI using CNN by [Konstantinos Fokeas](https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image) and [Gopal Krishna](https://github.com/gokriznastic/HybridSN).
+
+## License
+
+Copyright © 2019 Subhrasankar Chatterjee. Released under the MIT License. See [LICENSE](LICENSE) for details.
