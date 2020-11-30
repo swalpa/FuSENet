@@ -16,7 +16,7 @@ If you use this code in your research, we would appreciate a citation to the ori
      author={Roy, Swalpa Kumar and Dubey, Shiv Ram and Chatterjee, Subhrasankar and Chaudhuri, Bidyut B.},
      journal={IET Image Processing},
      volume = {14(8)},
-     pages = {1653 - 1661}
+     pages = {1653 - 1661},
      year={2020}
      }
 
